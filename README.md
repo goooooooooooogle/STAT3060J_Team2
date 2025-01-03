@@ -8,7 +8,7 @@
 
 ## Website
 
-### https://runqiuw.github.io/WenXuJinShan-analysis/
+### https://runqiuw.github.io/just-the-docs-template/
 
 
 ## Contact us
