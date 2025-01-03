@@ -43,7 +43,7 @@ reading rate = view number / subscription number.
 - The articles before 12.Nov is much more attractive than articles after 12.Nov
 
 # Explanation and Results
-The tag of articles before 12.Nov and after 12.Nov are quite similar, while the latter articles are less attractive. That's because the old users who focus on covid pandemic all subscribe this officail account and get to saturation. So to make articles more attractive to new users. This official account should push articles whose topic is concerned by people in JinShan community. We will discuss this later in the [Content](https://goooooooooooogle.github.io/just-the-docs-template/Contents.html) Chapter.
+The tag of articles before 12.Nov and after 12.Nov are quite similar, while the latter articles are less attractive. That's because the old users who focus on covid pandemic all subscribe this officail account and get to saturation. So to make articles more attractive to new users. This official account should push articles whose topic is concerned by people in JinShan community. We will discuss this later in the [Content](https://runqiuw.github.io/WenXuJinShan-analysis/Contents.html) Chapter.
 
 
 
